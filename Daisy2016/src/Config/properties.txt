@@ -1,0 +1,14 @@
+shooterKp 0.01
+shooterKi 0.0
+shooterKd 0.0
+shooterRPMTolerance 25
+distanceKp 0.01
+distanceKi 0.0
+distanceKd 0.0
+distanceTolerance 1
+angleKp 0.05
+angleKi 0.001
+angleKd 0.006
+angleTolerance 0.5
+turnPIDMaxMotorOutput 0.3
+revShooterRPM 3000

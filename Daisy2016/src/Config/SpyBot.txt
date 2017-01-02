@@ -1,0 +1,2 @@
+ResetHeading 90.0
+AutoAimAndShoot
